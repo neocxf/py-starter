@@ -1,0 +1,16 @@
+{
+  "targetFolder": "output",
+  "urls": [
+    "http://pythonscraping.com/pages/page1.html",
+    "https://pypi.org/project/beautifulsoup4/",
+    "https://stackoverflow.com/questions/13890935/does-pythons-time-time-return-the-local-or-utc-timestamp"
+  ],
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "passwd": "root",
+    "database": "catalog",
+    "pool_name": "mypool",
+    "pool_size": 3
+  }
+}
