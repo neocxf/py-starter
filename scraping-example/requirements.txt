@@ -25,7 +25,7 @@ python-dateutil==2.7.3
 python-docx==0.8.7
 PyYAML==3.13
 readme-renderer==22.0
-requests==2.18.1
+requests==2.20.0
 requests-toolbelt==0.8.0
 rsa==3.4.2
 s3transfer==0.1.13
