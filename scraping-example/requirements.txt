@@ -14,7 +14,7 @@ future==0.16.0
 httpie==0.9.9
 idna==2.5
 jmespath==0.9.3
-lxml==4.2.5
+lxml==4.6.3
 mysql-connector==2.1.6
 pkginfo==1.4.2
 pyasn1==0.4.4
